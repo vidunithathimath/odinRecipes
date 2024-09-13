@@ -1,0 +1,13 @@
+* {
+    color: rgb(121, 99, 58);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, aquamarine, orchid);
+    background-repeat: repeat-x;
+}
+
+a {
+    color: rgb(52, 91, 112);
+}
