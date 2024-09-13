@@ -6,6 +6,9 @@
 body {
     background-image: linear-gradient(to bottom right, aquamarine, orchid);
     background-repeat: repeat-x;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 a {
